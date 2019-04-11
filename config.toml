@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ilham"
+theme ="hallo-hugo"
+[Author]
+    name = "ILHAM  SETIAWAN"
